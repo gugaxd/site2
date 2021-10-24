@@ -28,11 +28,3 @@ a:hover{
     color: rgb(255, 174, 0);
     transition: 0.3s ease;
 }
-
-.minhafoto{
-    width: 25%;
-    height: 25%;
-    border-radius: 50%;
-    margin-left: 10%;
-    margin-top: 5%;
-}
