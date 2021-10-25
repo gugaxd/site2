@@ -5,11 +5,11 @@
 }
 
 body{
-    background: rgb(24, 24, 24);
+    background: rgb(12, 12, 12);
 }
 
 .head{
-    background-color: rgb(34, 34, 34);
+    background: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     padding: 40px;
@@ -30,7 +30,7 @@ a:hover{
 }
 
 .form{
-    background: rgba(0, 0, 0, 0.5);
+    background: rgb(0, 0, 0);
     display: block;
     padding: 50px;
     width: 500px;
